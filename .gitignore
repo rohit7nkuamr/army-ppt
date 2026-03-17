@@ -1,0 +1,16 @@
+# Media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.mp4
+*.mov
+*.avi
+*.wmv
+*.mkv
+
+# OS files
+.DS_Store
+Thumbs.db
